@@ -1,0 +1,142 @@
+
+/* PROGETTATO SU WIEVPORT DESKTOP  1440PX   NO RESPONSIVE
+ */
+
+body{
+    background-color: rgb(233, 237, 238);
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.logo{
+    background-color: rgb(34, 47, 63);
+    padding: 22px;
+}
+
+
+.logo img{
+    width: 150px;
+}
+
+
+
+nav,ul{
+    background-color: rgb(54, 71, 89);
+    padding: 6px;
+}
+
+ul li{
+    display: inline;
+    margin-left: 15px;
+    color: white;
+}
+
+main{
+    margin: 30px;
+}
+
+.intro{
+    background-color: rgb(245, 102, 0);
+    color: white;
+    text-align: center;
+    
+    padding: 10px;
+}
+
+.heading{
+   background-image:url(../images/bg-image.png);
+   text-align: center;
+   color: white;
+   margin-top: 30px;
+   padding: 60px;
+   line-height: 38px;
+   font-weight: bold;
+}
+h1{
+   font-size: 27px; 
+}
+
+
+#section1{
+    background-color: rgb(255, 255, 255);
+    margin-top: 30px;
+    
+}
+
+.img-section1{
+    display: inline;
+}
+
+h2{
+    padding: 10px;
+    font-weight: bold;
+    font-size: 21px;
+}
+h2 span{
+    color: rgb(8 137 160);
+    font-weight: bold;
+    font-size: 16px;
+    margin-left: 15px;
+
+}
+
+
+.img-section1 img{
+    width: 316px;
+    margin: 10px;
+    height: 350px;
+    border-radius: 10px;
+    box-shadow: 10px 8px 30px -7px rgba(0,0,0,0.71);
+    -webkit-box-shadow: 10px 8px 30px -7px rgba(0,0,0,0.71);
+    -moz-box-shadow: 10px 8px 30px -7px rgba(0,0,0,0.71);
+    object-fit: cover;
+    
+}
+
+#section2{
+    margin-top: 30px;
+    text-align: center;
+}
+
+#section3{
+    margin-top: 30px;
+    text-align: center;
+}
+
+
+
+#section2 img{
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 100%;
+}
+
+#section3 img{
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 100%;
+    
+}
+
+footer nav{
+    
+    text-align: center;
+    padding: 10px;
+    
+}
+a{
+    color: white;
+    font-weight: bold;
+}
+
+.logo2{
+    background-color:rgb(34, 47, 63); 
+    text-align: center;
+}
+
+.logo2 img{
+    width: 250px;
+    padding: 67px;
+}
+    
